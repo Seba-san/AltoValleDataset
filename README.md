@@ -10,3 +10,6 @@
 
 ![](https://github.com/Seba-san/AltoValleDataset/blob/main/agosto.gif)
 
+## Vista aerea
+
+![](https://github.com/Seba-san/AltoValleDataset/blob/main/aereo.gif)
