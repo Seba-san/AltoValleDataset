@@ -6,3 +6,7 @@
 
 ![](https://github.com/Seba-san/AltoValleDataset/blob/main/abril.gif)
 
+## Ejemplos datos de Agosto
+
+![](https://github.com/Seba-san/AltoValleDataset/blob/main/agosto.gif)
+
