@@ -4,12 +4,12 @@
 
 ## Ejemplos datos de Abril
 
-![](https://github.com/Seba-san/AltoValleDataset/blob/main/abril.gif)
+![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/abril.gif)
 
 ## Ejemplos datos de Agosto
 
-![](https://github.com/Seba-san/AltoValleDataset/blob/main/agosto.gif)
+![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/agosto.gif)
 
 ## Vista aérea
 
-![](https://github.com/Seba-san/AltoValleDataset/blob/main/aereo.gif)
+![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/aereo.gif)
