@@ -8,6 +8,9 @@ Esta base de datos aún está en pleno desarrollo. Cualquier aporte es bienvenid
 ## Cómo adquirir las bases de datos:
  - Los datos formateados se pueden descargar desde este [LINK](http://190.124.230.117/AVD/).
 
+## Presentación del trabajo
+[![](https://img.youtube.com/vi/qrSIFyLzFrQ/maxresdefault.jpg)](https://youtu.be/qrSIFyLzFrQ)
+
 ## Ejemplos datos de Abril
 
 ![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/abril.gif)
