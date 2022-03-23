@@ -6,7 +6,7 @@ Esta base de datos aún está en pleno desarrollo. Cualquier aporte es bienvenid
  - Presentación [PDF](https://github.com/Seba-san/AltoValleDataset/blob/main/presentacion.pdf).
  - Exposición:
 
-[![](https://img.youtube.com/vi/qrSIFyLzFrQ/maxresdefault.jpg)](https://youtu.be/qrSIFyLzFrQ)
+[![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/fake_video.png)](https://youtu.be/qrSIFyLzFrQ)
 
 ## Cómo adquirir las bases de datos:
  - Los datos formateados se pueden descargar desde este [LINK](http://190.124.230.117/AVD/).
