@@ -11,7 +11,7 @@ Esta base de datos aún está en pleno desarrollo. Cualquier aporte es bienvenid
 ## Cómo adquirir las bases de datos:
  - Los datos formateados se pueden descargar desde este [LINK](http://190.124.230.117/AVD/).
    
-   Actualmente el servidor de archivos posee cierta inestabilidad, si tiene alguna complicación para descargar los datos abra un hilo en la pestaña issues comentando el problema para ver si es posible resolverlo. 
+   Actualmente el servidor de archivos posee cierta inestabilidad, si tiene alguna complicación para descargar los datos abra un hilo en la pestaña issues comentando el problema para ver si es posible resolverlo. En este [LINK](https://github.com/Seba-san/AltoValleDataset/blob/main/descarga.md) se aglomeran algunas soluciones que sirvieron en el pasado.
 
 ## Ejemplos datos de Abril
 
