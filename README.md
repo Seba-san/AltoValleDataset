@@ -9,7 +9,7 @@ Esta base de datos aún está en pleno desarrollo. Cualquier aporte es bienvenid
 [![](https://github.com/Seba-san/AltoValleDataset/blob/main/gifs/fake_video.png)](https://youtu.be/qrSIFyLzFrQ)
 
 ## Cómo adquirir las bases de datos:
- - Los datos formateados se pueden descargar desde este [LINK]([http://190.124.230.117/AVD/](https://huggingface.co/datasets/Seba-san/AltoValleDataset)).
+ - Los datos formateados se pueden descargar desde este [LINK](https://huggingface.co/datasets/Seba-san/AltoValleDataset).
    
 ## Ejemplos datos de Abril
 
